@@ -16,5 +16,9 @@
     "chinese-management",
     "mnimanipi-micro-enterprise"
   ],
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coesite-operations/rendanheyi.git"
+  }
 }
